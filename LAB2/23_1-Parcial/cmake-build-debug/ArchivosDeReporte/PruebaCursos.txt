@@ -1,0 +1,9 @@
+CODIGO    NOMBRE DEL CURSO                                  CREDITOS    PROFESOR
+==============================================================================================================
+INF263    Algoritmia                                            3.75    INGA FLORES CESAR ADOLFO
+MEC270    Procesos De Manufactura                               4.00    PAIRAZAMAN ALAMO MOISES MIGUEL
+MEC289    Turbomaquinas Y Maquinas De Desplazamiento Positivo    4.25    DELGADO GONZALES GUILLERMO ALFONSO
+MAT241    Metodos Numericos En Ingenieria                       3.00    HERNANDEZ BARRIOS EMILIO 
+MEC206    Termodinamica 1                                       4.50    SALAS AGUERO DANIEL 
+INF246    Bases De Datos                                        3.75    MEJIA DIAZ BLANCA MILAGROS
+FIS220    Tecnicas Computacionales En Fisica                    4.50    VASQUEZ PAZ ALEX MARTIN
